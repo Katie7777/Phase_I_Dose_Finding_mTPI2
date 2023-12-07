@@ -1,4 +1,4 @@
-setwd("C:/Users/katie.wang/OneDrive - Karyopharm Therapeutics/Documents/mTPI-2_code/mTPI2_simulation_code")
+setwd("C:/Users/katie.wang/OneDrive")
 source("mTPI2_help_func_1.R")
 library(pillar)
 
